@@ -1,0 +1,11 @@
+﻿seed: 42
+image_size: 64
+batch_size: 8
+epochs: 30
+learning_rate: 0.001
+train_stories: 14
+validation_stories: 4
+num_classes: 5
+loss: CrossEntropyLoss
+optimizer: Adam
+modality: image_only
