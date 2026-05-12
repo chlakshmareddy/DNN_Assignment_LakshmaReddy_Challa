@@ -1,0 +1,26 @@
+{
+  "total_images_in_zip": 91,
+  "usable_images": 90,
+  "excluded_images": [
+    "dnn dataset/985067019_705fe4a4cc.jpg"
+  ],
+  "total_complete_stories": 18,
+  "train_stories": 14,
+  "validation_stories": 4,
+  "train_images": 70,
+  "validation_images": 20,
+  "train_class_distribution": {
+    "1": 14,
+    "2": 14,
+    "3": 14,
+    "4": 14,
+    "5": 14
+  },
+  "validation_class_distribution": {
+    "1": 4,
+    "2": 4,
+    "3": 4,
+    "4": 4,
+    "5": 4
+  }
+}
