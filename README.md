@@ -2,13 +2,6 @@
 
 This repository contains a complete image-based practical submission for the reassessment task.
 
-## Student Details
-
-Name: LakshmaReddy Challa 
-Student ID: 35049341  
-Module: Deep Neural Networks and Learning Systems  
-Task: Image-based story sequence position classification
-
 ## Objective
 
 The task is to predict where an image belongs in a five-step story sequence. This is a five-class classification problem:
