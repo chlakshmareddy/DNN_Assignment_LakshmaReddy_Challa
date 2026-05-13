@@ -4,8 +4,8 @@ This repository contains a complete image-based practical submission for the rea
 
 ## Student Details
 
-Name: [Write your full name here]  
-Student ID: [Write your student ID here]  
+Name: LakshmaReddy Challa 
+Student ID: 35049341  
 Module: Deep Neural Networks and Learning Systems  
 Task: Image-based story sequence position classification
 
