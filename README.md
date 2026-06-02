@@ -116,18 +116,6 @@ No. The More Filters model did not beat Batch Normalization, and the dataset is 
 
 Predicting sequence position from one image is difficult because the story order is not always obvious visually. Some middle and ending images may look similar without the text context. The model must learn weak visual cues such as actions, scene changes, and event progression, but the dataset is small, so these patterns are difficult to learn reliably.
 
-## Viva Preparation
-
-I should be ready to explain:
-
-- Why I used images only.
-- How labels 1 to 5 were created.
-- Why the split was done by story.
-- Why CrossEntropyLoss is suitable for 5-class classification.
-- What each experiment changed.
-- Which experiment performed best and why.
-- How the loss curves show learning or overfitting.
-- Why a small dataset limits validation accuracy.
 
 ## How To Run
 
