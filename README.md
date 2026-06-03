@@ -1,4 +1,4 @@
-# Deep Neural Networks Reassessment Practical
+# Image-Based Story Sequence Classification Using Convolutional Neural Networks (CNNs)
 
 This repository contains a complete image-based practical submission for the reassessment task.
 
