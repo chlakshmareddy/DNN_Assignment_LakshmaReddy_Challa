@@ -1,7 +1,5 @@
 # Image-Based Story Sequence Classification Using Convolutional Neural Networks (CNNs)
 
-This repository contains a complete image-based practical submission for the reassessment task.
-
 ## Objective
 
 The task is to predict where an image belongs in a five-step story sequence. This is a five-class classification problem:
